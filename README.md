@@ -24,3 +24,5 @@ Sou graduando em Sistemas de Informação pela Universidade Estácio. Desenvolve
 Apaixonado por tecnologia e por poder mudar a vida das pessoas através da programção.
 
 ## Contato: fabio_ribeiro_8@hotmail.com
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
