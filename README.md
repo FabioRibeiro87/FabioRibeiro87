@@ -25,4 +25,4 @@ Apaixonado por tecnologia e por poder mudar a vida das pessoas através da progr
 
 ## Contato: fabio_ribeiro_8@hotmail.com
 
-![Snake animation](https://github.com/FabioRibeiro87/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/FabioRibeiro87/rafaballerini/blob/output/github-contribution-grid-snake.svg)
